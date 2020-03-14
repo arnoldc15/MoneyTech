@@ -30,7 +30,7 @@ namespace MoneytechTest.Api.Controllers
 
                 return Ok(new Fibonacci()
                 {
-                    NextFibonacciNumber = result
+                    NextNumber = result
                 });
             }
             catch (Exception e)
