@@ -2,6 +2,6 @@
 {
     public class Fibonacci
     {
-        public ulong NextFibonacciNumber { get; set; }
+        public ulong NextNumber { get; set; }
     }
 }
